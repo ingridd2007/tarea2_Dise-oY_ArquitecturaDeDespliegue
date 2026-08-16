@@ -1,0 +1,21 @@
+{
+  "name": "tarea2_dise-oy_arquitecturadedespliegue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diagnostico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingridd2007/tarea2_Dise-oY_ArquitecturaDeDespliegue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ingridd2007/tarea2_Dise-oY_ArquitecturaDeDespliegue/issues"
+  },
+  "homepage": "https://github.com/ingridd2007/tarea2_Dise-oY_ArquitecturaDeDespliegue#readme"
+}
